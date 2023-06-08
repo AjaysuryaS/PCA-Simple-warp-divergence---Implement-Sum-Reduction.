@@ -36,8 +36,10 @@ Step 8 :
 
 Atlast , free the host and device memory then reset the device and check for results.
 ## program:
+```
 Developed By : ajaysuriya.s
 Reg No : 212221040009
+```
 ### kernel reduceUnrolling8
 ```
 #include "common.h"
